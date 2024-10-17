@@ -1,0 +1,203 @@
+    <!-- <div class="features-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="col-lg-12 ms-5 mt-3">
+                            <div class="card  w-75 mx-auto cardmg">
+                                <img src="img/bann1.jpg" class="card-img" alt="...">
+                                <div class="card-img-overlay">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                  <p class="card-text">Last updated 3 mins ago</p>
+                                </div>
+                              </div>
+                        </div>
+                        <div class="col-lg-12 ms-5 ">
+                            <div class="card w-75 mx-auto mt-3 cardmg">
+                                <img src="img/bann2.jpg" class="card-img" alt="...">
+                                <div class="card-img-overlay">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                  <p class="card-text">Last updated 3 mins ago</p>
+                                </div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="card text-white mt-5  w-75 cardmg">
+                        <img src="img/ind111.jpg" class="card-img1  crd" alt="...">
+                        <div class="card-img-overlay  sss">
+                          <h1 class="card-title bbb">Coolest Casulas</h1>
+                          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <p class="card-text">Last updated 3 mins ago</p>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </div>  -->
+
+
+
+    <!-- <section class="productss cloth-1">
+        <h2>Featured Product</h2>
+        <p>Summer collection New model</p>
+        <div class="pro-container">
+            <div class="product1 cloth-1">
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="product2 cloth-1">
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="product2 cloth-1">
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="product4 cloth-1">
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="product4 cloth-1">
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+
+
+
+
+
+
+
+    <header class="header">
+        <!-- <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="img/logo.png" alt="Logo"class=" nlogo">
+            </a>
+        </div> -->
+        <nav class="navbar navbar-expand-lg p-1 mx-auto" style="width: 200px;">
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav naav" >
+                    <li class="nav-item navi">
+                        <a class="navbar-brand" href="#">
+                            <img src="img/logo.png" alt="logo" id="l">
+                        </a>
+
+                    </li>
+                    <li class="nav-item navi">
+                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item navi">
+                    <a class="nav-link" href="#">Shop</a>
+                    </li>
+                    <li class="nav-item navi">
+                    <a class="nav-link"  href="#">About</a>
+                    </li>
+                    <li class="nav-item navi">
+                        <a class="nav-link"  href="blog.html">Blog</a>
+                    </li>
+                    <li class="nav-item navi">
+                        <a class="nav-link"  href="#">contact</a>
+                    </li>
+                </ul>
+            </div>
+            </div>
+        </nav>
+    </header>
+
+<div class="col-md-4 mt-4 mb-4">
+                <div class="card text-center">
+                    <div class="card-body">
+                            <img src="/img/Foto1.png" class="card-img-top border rounded-circle" alt="...">
+                            <h5 class="card-title p-2 fs-4 fs-bold">Card title</h5>
+                              <p class="card-text fst-italic mt-3 mb-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                    <div class="card-footer text-muted">
+                      2 days ago
+                  </div>
+                </div>
+            </div>
+
+
+ off-hover
+
+transition: transform 0.5s;
+    cursor: pointer;
+    margin-bottom: 20px;
+
+
+transform: translateY(-15px);
+
+
+<div class="card text-center">
+                    <div class="card-body card-bgcolor">
+                            <img src="/img/bann3.jpg" class="card-img-top crd-img border rounded" alt="...">
+                            <div class="card-blgtxt   border bg-light rounded position-relative mx-2">
+                                <h5 class="card-title p-2 fs-4 fs-bold">Addidas</h5>
+                                <h6 class="card-text mt-1 mb-2">Raymond white Baggy Pants</h6>
+                                <h6>699</h6>
+                                <div class="star text-warning mb-1">
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-half"></i>
+                            </div>
+                            <button href="" class="box2 btn btn-outline-warning text-dark mb-1" type="button">
+                                <i class="bi bi-cart3 fw-normal"></i> Add to Cart
+                            </button>
+                            </div>
+                    </div>
+                    <div class="card-footer text-muted">
+                      2 days ago
+                    </div>
+                </div>
+
+
+
+
+.blog-img{
+    width: 100%;
+    height: 80%;
+}
+.blog-date{
+    font-size: 80px;
+    font-weight: 700;
+    color: #C9CBCE;
+}
